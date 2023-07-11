@@ -37,6 +37,11 @@
   | Total Shipment Weight | https://platform.stratascratch.com/coding/2058-total-shipment-weight | Easy |
   | Weight For First Shipment | https://platform.stratascratch.com/coding/2057-weight-for-first-shipment | Easy |
   | Unique Users Per Client Per Month | https://platform.stratascratch.com/coding/2024-unique-users-per-client-per-month | Easy |
+  | Total Number Of Housing Units | https://platform.stratascratch.com/coding/10167-total-number-of-housing-units | Easy |
+  | Sorting By Second Character | https://platform.stratascratch.com/coding/2166-sorting-by-second-character | Easy |
+  | Admin Department Employees Beginning in April or Later | https://platform.stratascratch.com/coding/9845-find-the-number-of-employees-working-in-the-admin-department | Easy |
+  | Customer Details | https://platform.stratascratch.com/coding/9891-customer-details | Easy |
+  | Number of Shipments Per Month | https://platform.stratascratch.com/coding/2056-number-of-shipments-per-month | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
 
   
