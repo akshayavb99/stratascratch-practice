@@ -42,6 +42,11 @@
   | Admin Department Employees Beginning in April or Later | https://platform.stratascratch.com/coding/9845-find-the-number-of-employees-working-in-the-admin-department | Easy |
   | Customer Details | https://platform.stratascratch.com/coding/9891-customer-details | Easy |
   | Number of Shipments Per Month | https://platform.stratascratch.com/coding/2056-number-of-shipments-per-month | Easy |
+  | Reviews of Hotel Arena | https://platform.stratascratch.com/coding/10166-reviews-of-hotel-arena | Easy |
+  | 3 Bed Minimum | https://platform.stratascratch.com/coding/9627-3-bed-minimum | Easy |
+  | Cheapest Properties | https://platform.stratascratch.com/coding/9625-cheapest-properties | Easy |
+  | Dirty Hotel Rooms | https://platform.stratascratch.com/coding/9602-dirty-hotel-rooms | Easy |
+  | Find all neighborhoods present in this dataset | https://platform.stratascratch.com/coding/9626-find-all-neighborhoods-present-in-this-dataset | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
 
   
