@@ -47,7 +47,13 @@
   | Cheapest Properties | https://platform.stratascratch.com/coding/9625-cheapest-properties | Easy |
   | Dirty Hotel Rooms | https://platform.stratascratch.com/coding/9602-dirty-hotel-rooms | Easy |
   | Find all neighborhoods present in this dataset | https://platform.stratascratch.com/coding/9626-find-all-neighborhoods-present-in-this-dataset | Easy |
+  | Total AdWords Earnings | https://platform.stratascratch.com/coding/10164-total-adwords-earnings | Easy |
+  | Number Of Acquisitions | https://platform.stratascratch.com/coding/10162-number-of-acquisitions | Easy |
+  | Pending Claims | https://platform.stratascratch.com/coding/2083-pending-claims | Easy |
+  | Number of Hires During Specific Time Period | https://platform.stratascratch.com/coding/2151-number-of-hires-during-specific-time-period | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
+  | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
+  
 
   
   
