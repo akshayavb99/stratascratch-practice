@@ -51,8 +51,14 @@
   | Number Of Acquisitions | https://platform.stratascratch.com/coding/10162-number-of-acquisitions | Easy |
   | Pending Claims | https://platform.stratascratch.com/coding/2083-pending-claims | Easy |
   | Number of Hires During Specific Time Period | https://platform.stratascratch.com/coding/2151-number-of-hires-during-specific-time-period | Easy |
+  | Rank guests based on their ages | https://platform.stratascratch.com/coding/10160-rank-guests-based-on-their-ages | Easy |
+  | Find the number of Yelp businesses that sell pizza | https://platform.stratascratch.com/coding/10153-find-the-number-of-yelp-businesses-that-sell-pizza | Easy |
+  | Find the review count for one-star businesses from yelp | https://platform.stratascratch.com/coding/10050-find-the-review-count-for-one-star-businesses-from-yelp | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
+  | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
+  | Average On-Time Order Value | https://platform.stratascratch.com/coding/2153-average-on-time-order-value | Medium |
+  
   
 
   
