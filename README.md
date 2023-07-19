@@ -54,10 +54,15 @@
   | Rank guests based on their ages | https://platform.stratascratch.com/coding/10160-rank-guests-based-on-their-ages | Easy |
   | Find the number of Yelp businesses that sell pizza | https://platform.stratascratch.com/coding/10153-find-the-number-of-yelp-businesses-that-sell-pizza | Easy |
   | Find the review count for one-star businesses from yelp | https://platform.stratascratch.com/coding/10050-find-the-review-count-for-one-star-businesses-from-yelp | Easy |
+  | Gender With Generous Reviews | https://platform.stratascratch.com/coding/10149-gender-with-generous-reviews | Easy |
+  | Guest Or Host Kindness | https://platform.stratascratch.com/coding/10072-guest-or-host-kindness | Easy |
+  | Find players who participated in the Olympics representing more than one team | https://platform.stratascratch.com/coding/10143-find-players-who-participated-in-the-olympics-representing-more-than-one-team | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
   | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
   | Average On-Time Order Value | https://platform.stratascratch.com/coding/2153-average-on-time-order-value | Medium |
+  | Users By Average Session Time | https://platform.stratascratch.com/coding/10352-users-by-avg-session-time | Medium |
+  | Activity Rank | https://platform.stratascratch.com/coding/10351-activity-rank | Medium |
   
   
 
