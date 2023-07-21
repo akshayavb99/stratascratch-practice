@@ -57,12 +57,18 @@
   | Gender With Generous Reviews | https://platform.stratascratch.com/coding/10149-gender-with-generous-reviews | Easy |
   | Guest Or Host Kindness | https://platform.stratascratch.com/coding/10072-guest-or-host-kindness | Easy |
   | Find players who participated in the Olympics representing more than one team | https://platform.stratascratch.com/coding/10143-find-players-who-participated-in-the-olympics-representing-more-than-one-team | Easy |
+  | Even-numbered IDs Hired in June | https://platform.stratascratch.com/coding/10137-find-workers-with-an-even-number-for-worker-id | Easy |
+  | First Name's Containing the Letter 'a' | https://platform.stratascratch.com/coding/9840-find-all-workers-whose-first-name-contains-the-letter-a | Easy |
+  | First Names With Six Letters Ending in 'h' | https://platform.stratascratch.com/coding/9842-find-all-workers-whose-first-name-contains-6-letters-and-also-ends-with-the-letter-h | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
   | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
   | Average On-Time Order Value | https://platform.stratascratch.com/coding/2153-average-on-time-order-value | Medium |
   | Users By Average Session Time | https://platform.stratascratch.com/coding/10352-users-by-avg-session-time | Medium |
   | Activity Rank | https://platform.stratascratch.com/coding/10351-activity-rank | Medium |
+  | Distances Traveled | https://platform.stratascratch.com/coding/10324-distances-traveled | Medium |
+  | Most Profitable City of 2021 | https://platform.stratascratch.com/coding/2137-most-profitable-city-of-2021 | Medium |
+  
   
   
 
