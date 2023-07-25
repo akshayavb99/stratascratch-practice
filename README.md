@@ -62,6 +62,8 @@
   | First Names With Six Letters Ending in 'h' | https://platform.stratascratch.com/coding/9842-find-all-workers-whose-first-name-contains-6-letters-and-also-ends-with-the-letter-h | Easy |
   | Odd-numbered ID's Hired in February | https://platform.stratascratch.com/coding/10136-find-workers-with-an-odd-number-for-worker-id | Easy |
   | Positions Of Letter 'a' | https://platform.stratascratch.com/coding/9829-positions-of-letter-a | Easy |
+  | Highest Crime Rate | https://platform.stratascratch.com/coding/10132-highest-crime-rate | Easy |
+  | METROPOLITAN TRANSIT AUTHORITY' Employees | https://platform.stratascratch.com/coding/9975-metropolitan-transit-authority-employees | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
   | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
@@ -73,6 +75,10 @@
   | Algorithm Performance | https://platform.stratascratch.com/coding/10350-algorithm-performance | Medium |
   | Finding User Purchases | https://platform.stratascratch.com/coding/10322-finding-user-purchases | Medium |
   | Find the percentage of shipable orders | https://platform.stratascratch.com/coding/10090-find-the-percentage-of-shipable-orders | Medium | 
+  | New Products | https://platform.stratascratch.com/coding/10318-new-products | Medium |
+  | Daily Active Users | https://platform.stratascratch.com/coding/2050-daily-active-users | Medium |
+  | Duplicate Emails | https://platform.stratascratch.com/coding/9895-duplicate-emails | Medium |
+  | Highest Target | https://platform.stratascratch.com/coding/9904-highest-target | Medium |
   
   
   
