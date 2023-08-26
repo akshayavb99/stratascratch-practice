@@ -64,6 +64,14 @@
   | Positions Of Letter 'a' | https://platform.stratascratch.com/coding/9829-positions-of-letter-a | Easy |
   | Highest Crime Rate | https://platform.stratascratch.com/coding/10132-highest-crime-rate | Easy |
   | METROPOLITAN TRANSIT AUTHORITY' Employees | https://platform.stratascratch.com/coding/9975-metropolitan-transit-authority-employees | Easy |
+  | Calculate Samantha's and Lisa's total sales revenue | https://platform.stratascratch.com/coding/10127-calculate-samanthas-and-lisas-total-sales-revenue | Easy |
+  | Find the total number of searches for houses Westlake neighborhood with a TV | https://platform.stratascratch.com/coding/10122-find-the-total-number-of-searches-for-houses-westlake-neighborhood-with-a-tv | Easy |
+  | Number Of Bathrooms And Bedrooms | https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms | Easy |
+  | User Exile | https://platform.stratascratch.com/coding/10091-user-exile | Easy |
+  | Popularity of Hack | https://platform.stratascratch.com/coding/10061-popularity-of-hack | Easy |
+  | Find the number of reviews received by Lo-Lo's Chicken & Waffles for each star | https://platform.stratascratch.com/coding/10058-find-the-number-of-reviews-received-by-lo-los-chicken-waffles-for-each-star | Easy |
+  | Find the number of 5-star reviews earned by Lo-Lo's Chicken & Waffles | https://platform.stratascratch.com/coding/10057-find-the-number-of-5-star-reviews-earned-by-lo-los-chicken-waffles | Easy |
+  | Find the number of entries per star | https://platform.stratascratch.com/coding/10054-find-the-number-of-entries-per-star | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
   | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
