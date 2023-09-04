@@ -2,8 +2,10 @@
 ## Repository contains the practice questions solved on Stratascratch
 
 <details>
-  <summary>Coding Questions</summary>
-  
+  <summary><h2>Coding Questions</h2></summary>
+  <details>
+  <summary><h3>MS SQL Server</h3></summary>
+    
   | Question | Link to question | Difficulty |
   | --------------- | --------------- | --------------- |
   | Gender With Most Doctor Appointments | https://platform.stratascratch.com/coding/10170-gender-with-most-doctor-appointments | Easy |
@@ -72,6 +74,8 @@
   | Find the number of reviews received by Lo-Lo's Chicken & Waffles for each star | https://platform.stratascratch.com/coding/10058-find-the-number-of-reviews-received-by-lo-los-chicken-waffles-for-each-star | Easy |
   | Find the number of 5-star reviews earned by Lo-Lo's Chicken & Waffles | https://platform.stratascratch.com/coding/10057-find-the-number-of-5-star-reviews-earned-by-lo-los-chicken-waffles | Easy |
   | Find the number of entries per star | https://platform.stratascratch.com/coding/10054-find-the-number-of-entries-per-star | Easy |
+  | Churro Activity Date | https://platform.stratascratch.com/coding/9688-churro-activity-date | Easy |
+  | BAKERY' Owned Facilities | https://platform.stratascratch.com/coding/9697-bakery-owned-facilities | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
   | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
@@ -87,9 +91,18 @@
   | Daily Active Users | https://platform.stratascratch.com/coding/2050-daily-active-users | Medium |
   | Duplicate Emails | https://platform.stratascratch.com/coding/9895-duplicate-emails | Medium |
   | Highest Target | https://platform.stratascratch.com/coding/9904-highest-target | Medium |
+  | Cities With The Most Expensive Homes | https://platform.stratascratch.com/coding/10315-cities-with-the-most-expensive-homes | Medium |
+  | Class Performance | https://platform.stratascratch.com/coding/10310-class-performance | Medium |
   
-  
-  
+  </details>
+  <details>
+  <summary><h3>PySpark</h3></summary>
+    
+  | Question | Link to question | Difficulty |
+  | --------------- | --------------- | --------------- |
+  | 
+
+  </details>
   
 
   
