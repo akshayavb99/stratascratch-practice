@@ -76,6 +76,9 @@
   | Find the number of entries per star | https://platform.stratascratch.com/coding/10054-find-the-number-of-entries-per-star | Easy |
   | Churro Activity Date | https://platform.stratascratch.com/coding/9688-churro-activity-date | Easy |
   | BAKERY' Owned Facilities | https://platform.stratascratch.com/coding/9697-bakery-owned-facilities | Easy |
+  | Find all actions which occurred more than once in the weblog | https://platform.stratascratch.com/coding/9771-find-all-actions-which-occurred-more-than-once-in-the-weblog | Easy |
+  | Find all messages which have references to either user 2 or 3 | https://platform.stratascratch.com/coding/9767-find-all-messages-which-have-references-to-either-user-2-or-3 | Easy |
+  | Find all users who liked a post | https://platform.stratascratch.com/coding/9769-find-all-friends-who-liked-a-post | Easy |
   | Total Salary by Department | https://platform.stratascratch.com/coding/9869-find-the-total-salary-of-each-department | Medium |
   | Most Profitable Companies | https://platform.stratascratch.com/coding/10354-most-profitable-companies | Medium |
   | Workers With The Highest Salaries | https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries | Medium |
@@ -93,8 +96,11 @@
   | Highest Target | https://platform.stratascratch.com/coding/9904-highest-target | Medium |
   | Cities With The Most Expensive Homes | https://platform.stratascratch.com/coding/10315-cities-with-the-most-expensive-homes | Medium |
   | Class Performance | https://platform.stratascratch.com/coding/10310-class-performance | Medium |
+  | Risky Projects | https://platform.stratascratch.com/coding/10304-risky-projects | Medium |
+  | Average Customers Per City | https://platform.stratascratch.com/coding/2055-average-customers-per-city | Medium |
   
   </details>
+  
   <details>
   <summary><h3>PySpark</h3></summary>
     
